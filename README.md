@@ -6,6 +6,7 @@ With these python scipt, you can render the multiple workfiles in the same scrip
 4. All logs will shown in a small window. 
 
 
-![render_01](https://user-images.githubusercontent.com/65713157/132105931-36bd981a-b919-463d-a2a2-0547237114dc.jpg)
+![render_01](https://user-images.githubusercontent.com/65713157/132105968-df37c907-50a3-4730-9213-638693645ff4.jpg)
+
 
 
