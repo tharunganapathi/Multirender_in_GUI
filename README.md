@@ -8,7 +8,7 @@ With these python scipt, you can render the multiple workfiles in the same scrip
 
 ![render_01](https://user-images.githubusercontent.com/65713157/132105968-df37c907-50a3-4730-9213-638693645ff4.jpg)
 
-![render_02](https://user-images.githubusercontent.com/65713157/132106073-34f8553f-9c84-4770-ba14-caccc5bbb7fd.jpg)
+![render_02](https://user-images.githubusercontent.com/65713157/132106147-e72bd353-98c3-454b-824f-c3aeb9f44b70.jpg)
 
 
 
