@@ -1,4 +1,4 @@
-# render_multiple_write_nodes
+# Multirender_in_GUI
 With these python scipt, you can render the multiple workfiles in the same script and you dont want to open and render the each script one by one. 
 1. You can simply drag and drop the workfiles.
 2. Then you can set the frame range for every write nodes in single click.
